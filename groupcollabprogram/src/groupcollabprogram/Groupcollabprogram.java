@@ -18,6 +18,11 @@ public class Groupcollabprogram {
         System.out.println("Cory Parke");
         System.out.println("It's Corona Time");
         // TODO code application logic here
+        Cure();
+    }
+    
+    public static void Cure(){
+        System.out.println("I shall cure the virus of coronas with lime, liquid potatoes, and Florida man");
     }
     
 }
